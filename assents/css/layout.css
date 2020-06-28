@@ -4,7 +4,7 @@ body,ul,li,p {
   padding: 0px;
   list-style: none;
   font-size: 1.0rem;
-  font-family: sans-serif;
+  font: normal 16px sans-serif;
 }
 
 
