@@ -1,0 +1,63 @@
+/*CONFIGURAÇÕES GERAIS*/
+body,ul,li,p {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.0rem;
+  font-family: sans-serif;
+}
+
+
+/*Configurações da TAG <A>*/
+
+header a {
+  text-decoration: none;
+  color: white;
+} 
+
+/*Configurações da DISPLAY-FLEX*/
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #1a1d1e;
+}
+
+/*Configurações Do Menu*/
+.menu {
+  display: flex;
+}
+
+.menu li {
+  margin: 10px;
+}
+
+.menu li a {
+  display: block;
+  padding: 5px;
+}
+
+/*Configurações Da logo*/
+.img_logo {
+  width: 30px;
+  background-color: rgb(49, 49, 49);
+  border-radius: 50px;
+  padding: 2px;
+}
+
+.logo_conf {
+  display: flex;
+  align-items: center;
+}
+
+/*Configurações Da responsive*/
+@media (max-width: 700px) {
+  header {
+    flex-direction: column;
+  }
+  header h2 {
+    margin-bottom: 15px;
+  }
+}
