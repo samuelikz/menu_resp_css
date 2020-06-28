@@ -1,2 +1,3 @@
 # menu_resp
-Contrução de menu..
+Contrução de um menu responsivo mobile-
+
