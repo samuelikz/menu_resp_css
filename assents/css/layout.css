@@ -61,6 +61,9 @@ gallery {
 }
 
 #slider {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
   width: 100%;
   max-width: auto;
   height: 25vw;
@@ -74,16 +77,13 @@ gallery {
 
   position: absolute;
 
-  width: 100%;
+  width: 99%;
   height: 100%;
 
   object-fit: cover;
 
   transition: opacity 800ms;
-
-  -webkit-box-shadow: inset 0px 6px 20px 11px rgba(0,0,0,0.39);
-  -moz-box-shadow: inset 0px 6px 20px 11px rgba(0,0,0,0.39);
-  box-shadow: inset 0px 6px 20px 11px rgba(0,0,0,0.39);
+  border-radius: 10px;
 }
 
 #slider img.selected { 
