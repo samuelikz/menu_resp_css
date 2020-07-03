@@ -12,6 +12,7 @@ body,ul,li,p {
 
 header a {
   text-decoration: none;
+  outline: none;
   color: white;
 } 
 
@@ -119,7 +120,7 @@ gallery {
 }
 
 .colecao ul li{
-  padding: 70px;
+  padding: 50px;
 }
 
 .colecao img{
