@@ -86,22 +86,12 @@ gallery {
 
   transition: opacity 800ms;
   border-radius: 10px;
-<<<<<<< HEAD
 }
 
 #slider a{
-
   position: absolute;
-
   width: 99%;
   height: 100%;
-
-  object-fit: cover;
-
-  transition: opacity 800ms;
-  border-radius: 10px;
-=======
->>>>>>> 82b1a6f680ffc6d68dbd6f34b6db3ff49a9a9aa0
 }
 
 #slider img.selected { 
@@ -156,11 +146,7 @@ gallery {
   
     position: relative;
   }  
-<<<<<<< HEAD
   .colecao ul{
     flex-direction: column;
   }
 }
-=======
-}
->>>>>>> 82b1a6f680ffc6d68dbd6f34b6db3ff49a9a9aa0
