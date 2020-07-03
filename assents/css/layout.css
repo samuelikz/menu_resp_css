@@ -12,6 +12,7 @@ body,ul,li,p {
 
 header a {
   text-decoration: none;
+  outline: none;
   color: white;
 } 
 
