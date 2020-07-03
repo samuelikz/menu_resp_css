@@ -5,6 +5,7 @@ body,ul,li,p {
   list-style: none;
   font-size: 1.0rem;
   font: normal 16px sans-serif;
+  background-color: #1a1d1e;
 }
 
 
@@ -86,6 +87,7 @@ gallery {
 
   transition: opacity 800ms;
   border-radius: 10px;
+<<<<<<< HEAD
 }
 
 #slider a{
@@ -99,6 +101,8 @@ gallery {
 
   transition: opacity 800ms;
   border-radius: 10px;
+=======
+>>>>>>> 82b1a6f680ffc6d68dbd6f34b6db3ff49a9a9aa0
 }
 
 #slider img.selected { 
@@ -153,7 +157,11 @@ gallery {
   
     position: relative;
   }  
+<<<<<<< HEAD
   .colecao ul{
     flex-direction: column;
   }
 }
+=======
+}
+>>>>>>> 82b1a6f680ffc6d68dbd6f34b6db3ff49a9a9aa0
