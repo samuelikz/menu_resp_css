@@ -68,7 +68,7 @@ gallery {
   justify-content: center;
   margin-top: 10px;
   width: 100%;
-  max-width: auto;
+  /*max-width: auto;*/
   height: 25vw;
   max-height: 500px;
   
