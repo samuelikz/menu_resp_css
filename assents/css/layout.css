@@ -151,3 +151,11 @@ gallery {
     flex-direction: column;
   }
 }
+
+footer {
+  padding: 10px;
+  text-align: center;
+  flex-wrap: wrap;
+  background-color: #1a1d1e;
+  color: white;
+}
