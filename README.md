@@ -1,3 +1,3 @@
-# menu_resp
+# Praticando
 Construção de um site Responsivo
 
